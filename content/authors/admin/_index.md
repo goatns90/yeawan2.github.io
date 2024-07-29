@@ -7,31 +7,31 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KIMM
-    url: https://www.krict.re.kr/eng/index.do;jsessionid=5FDC8EF969794D3B1396339E2841B0D2
-  - name: Postdoctrol fellow
+  - name: Korea Institute of Machinery and Materials (KIMM)
+    url: https://www.kimm.re.kr/eng/sub020105
+  - name: Researcher
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses generating static electricity by mechanical energy and, use it for biomedical applications.
+bio: My research focuses on developing practical solutions for sampling, removing, and sensing airborne pollutants.
 
 
 # Interests to show in About widget
 interests:
-  - Energy harvesting
-  - Biocompatible materials
-  - Wireless energy transfer
-  - Pathogen control
-  - Biomedical engineering
+  - Aerosol control
+  - Airborne pathogen inactivation
+  - Rapid diagnostics
+  - Electrostatic discharge
+  - Fluidics 
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Advanced Materials Science and Engineering
-      institution: Sungkyunkwan University (SKKU)
-      year: 2023.08
+    - course: M.S. in Mechanical Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2020.02
     - course: B.S. in Mechanical Engineering
       institution: Hanyang University
-      year: 2019.02
+      year: 2018.02
     
 
 # Social/Academic Networking
@@ -42,18 +42,18 @@ social:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kimyjun@krict.re.kr'
+  link: 'mailto:lyw90@kimm.re.kr'
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/young-jun-kim-986925273/
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-9103-7065
+  link: https://orcid.org/my-orcid?orcid=0000-0003-0056-4474
 # - icon: download
 #   icon_pack: fas
 #   link: uploads/cv_sukkyung_kang.pdf
@@ -63,6 +63,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a Postdoctral Fellow in Advanced Functional Polymers Center [(advisor: Dr. Yun Ho Kim)](https://sites.google.com/view/krict-polymer) at the Korea Research Institute of Chemical Technology, a journey I embarked on in 2023.08. Before I join KRICT, I received a doctorate in Advanced Materials Science and Engineering from Sungkyunkwan University [(advisor: Prof. Sang-Woo Kim)](https://ehl.yonsei.ac.kr/).
+I am currently a researcher in Department of urban environment research at the Korea Institute of Machinery and Materials (KIMM), a journey I embarked on in 2019.12. Before I join KRICT, I received a M.S. degree in Mechanical Engineering from Korea Institute of Machinery and Materials [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
 
-My primary interest lies in energy harvesting based on mechanical movement and its applications in biomedical engineering. I synthesize **biocompatible materials** for triboelectric and piezoelectric energy harvesting, primarily using them in **implantable medical devices**, such as those for neuromodulation, pain blocking, and wound healing. Additionally, I utilize these materials for **pathogen control**, employing electroporation to inactivate airborne and waterborne pathogens.
+My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I develop air pollution control devices including **electrostatic precipitators** and **Scrubbers** for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I endowed the electrostatic precipitator with pathogen inactivation function. Additionally, I am developing **real-time aerosol mass blance**, and ionic wind assisted **particle removing fan**.
