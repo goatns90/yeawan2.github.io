@@ -7,7 +7,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KRICT
+  - name: KIMM
     url: https://www.krict.re.kr/eng/index.do;jsessionid=5FDC8EF969794D3B1396339E2841B0D2
   - name: Postdoctrol fellow
 
