@@ -10,11 +10,6 @@ image:
   caption:   
   focal_point: Smart
 
-links:
-  - icon: link
-    icon_pack: fas
-    name: link
-    url: https://www.nature.com/articles/s44221-024-00226-5
 url_code: ''
 url_pdf: ''
 url_slides: ''
