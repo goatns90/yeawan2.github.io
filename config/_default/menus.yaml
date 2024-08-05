@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Awards
-    url: '#awards-and-honors'
+  - name: Research
+    url: '#research'
     weight: 10
   - name: Publications
-    url: '#projects'
+    url: '#publications'
+    weight: 20
+  - name: Awards
+    url: '#awards-and-honors'
     weight: 30
-  - name: Patents
-    url: '#patents'
-    weight: 40
   - name: Gallery
     url: '#gallery'
-    weight: 50
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
