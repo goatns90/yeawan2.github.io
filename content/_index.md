@@ -70,7 +70,7 @@ sections:
         [(Google scholar)](https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ)<p>
         **First authored papers**<p>
         1.	Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids.*
-        2.	Lee, Y. et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.*
+        2.	Lee, Y. et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.*  
         3.	Lee, Y. et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*
         4.	Kim, Y. S.#, Lee, Y.# et al., (2022). Improvement of an In-Duct Two-Stage Electrostatic Precipitator via Diffusion Charging, *Toxics.*
         5.	Lee, Y. et al., (2022). Removal of Mist Particles by a Two-Stage Electrostatic Precipitator Featuring Plastic Plate Electrodes, *IEEE Transactions on Industry Applications.*
@@ -126,6 +126,7 @@ sections:
         -	**2021.	The best paper award, 2021 Seoul Global Challenge** (7,000 USD) ([YouTube](https://www.youtube.com/watch?v=Aqv8clNCg2A), [News](https://smartcity.go.kr/en/2021/12/16/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%A0%80%EA%B0%90%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%9E%91%EC%8A%A4%EC%97%B0%EA%B5%AC/))
         -	2022.	Outstanding paper award, 2022 Annual Conference of Korean Association for Particle and Aerosol Research
         -	2022.	Outstanding paper award, 2022 Annual Conference of Korean Society for Atmospheric Environment
+
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
 
   - block: markdown
