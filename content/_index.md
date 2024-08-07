@@ -67,62 +67,65 @@ sections:
     content:
       title: Full publication list #1
       text: |
-        [(Google scholar)](https://scholar.google.co.kr/citations?user=hTVt6tEAAAAJ&hl=en)<p>**First authored papers**<p>
-        1.	**Y.-J. Kim#**, Z.-Y. Huo#, H. Dai#, D.-M. Lee, I.-Y. Suh, J.-H. Hwang, Y. Chung, H. Y. Lee, Y. Du, W. Ding, X. Wang, S.-W. Kim*, [Body-coupled energy enabling unrestricted microbial disinfection using polymer nanorods](https://www.nature.com/articles/s44221-024-00226-5), **Nature Water** 2, 360-369 (2024), Covered by News & Views in Nature Water, Highlighted in Nature 628, 693 (2024) 
-        2.	**Y.-J. Kim#**, J. Lee#, J.-H Hwang#, Y. Chung, B. J. Park, J. Kim, S.-H. Kim, H.-J. Yoon, S.-M. Park*, S.-W. Kim*, [High-performing and capacitive-matched triboelectric implants driven by ultrasound](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202307194), **Advanced Materials** 36, 2307194 (2024), Covered by Fobes, Parkinson’s News Today, News-medical, etc.
-        3.	I.-Y. Suh#, **Y.-J. Kim#**, B.-Q. Chen, P. Zhao, D. S. Cho, M. Kang, Z.-Y. Huo*, S.-W. Kim*, [Self-powered microbial blocking textile driven by triboelectric charges](https://www.sciencedirect.com/science/article/abs/pii/S2211285523001805), **Nano Energy** 110, 108343 (2023)
-        4.	**Y.-J. Kim#**, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, [Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field](https://link.springer.com/article/10.1186/s11671-022-03749-6), **Nanoscale Research Letters** 17, 1-9 (2022)
-        5.	M. Kang#, N.-Y. Jang#, **Y.-J. Kim#**, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, [Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2), **Cell Reports Physical Science** 3, 100813 (2022)
-        6.	Z.-Y. Huo#, **Y.-J. Kim#**, I.-Y. Suh, D.-M. Lee, J. H. Lee, Y. Du, S. Wang, H.-J. Yoon, and S.-W. Kim*, [Triboelectrification induced self-powered microbial disinfection using nanowire-enhanced localized electric field](https://www.nature.com/articles/s41467-021-24028-5), **Nature Communications** 12, 1-11 (2021) Covered by domestic news (Dong-A Ilbo, etc.)<p>
+        [(Google scholar)](https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ)<p>
+        **First authored papers**<p>
+        1.	Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids.*
+        2.	Lee, Y. et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.*
+        3.	Lee, Y. et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*
+        4.	Kim, Y. S.#, Lee, Y.# et al., (2022). Improvement of an In-Duct Two-Stage Electrostatic Precipitator via Diffusion Charging, *Toxics.*
+        5.	Lee, Y. et al., (2022). Removal of Mist Particles by a Two-Stage Electrostatic Precipitator Featuring Plastic Plate Electrodes, *IEEE Transactions on Industry Applications.*
+        6.	Lee, Y. et al., (2023). Gas Absorption and Particle Removal Performance of Wet Parallel-membrane Array System, *IEEE Transactions on Industry Applications.*
+        7.	Lee, Y. et al., (2024) Retrofitting of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, *IEEE Transactions on Industry Applications.*<p>
         
         **Contributing authored papers** <p>
 
-        7.	Y. Chung#, J.-M. Jeong#, J.-H. Hwang#, **Y.-J. Kim**, B.-J. Park, D. S. Cho, Y. Cho, S. J. Suh, B.-O. Choi, H. Park*, H.-J. Yoon*, S.-W. Kim*, [Gigantic triboelectric power generation overcoming acoustic energy barrier using metal-liquid coupling](https://www.cell.com/joule/abstract/S2542-4351(24)00292-7), **Joule**, online published (2024)
-        8.	M. Kang#, H. Yum#, H. T. Kim#, B. J. Park, Y. Choi, H. J. Kim, Y. Cho, **Y.-J. Kim**, D.-M. Lee, D.-G. Lee, H.-C. Song, S. H. Nam, J. H. Lee*, B.-O. Choi*, S.-W. Kim*, [Self-Powered Electrical Bandage Based on Body-Coupled Energy Harvesting](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202402491), **Advanced Materials**, online published (2024) 
-        9.	I.-Y. Suh#, Z.-Y. Huo#, J.-H. Jung#, D. Kang, D.-M. Lee, **Y.-J. Kim**, B. Kim, J. Jeon, P. Zhao, J. Shin, S. Kim, S.-W. Kim*, [Highly efficient microbial inactivation enabled by tunneling charges injected through two-dimensional electronics](https://www.science.org/doi/full/10.1126/sciadv.adl5067), **Science Advances** 10, eadl5067 (2024)
-        10.	J. Kim#, D.-M. Lee#, H. Ryu, **Y.-J. Kim**, H. Kim, H.-J. Yoon, M. Kang, S. S. Kwak*, S.-W. Kim*, [Triboelectric Nanogenerators for Battery-Free Wireless Sensor System Using Multi-Degree of Freedom Vibration](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202301427), **Advanced Materials Technologies** 9, 2301427 (2024)
-        11.	D. Kang#, J.-H. Hwang#, **Y.-J. Kim**, Z. Pin, H. Y. Lee, J. Kim, M. S. Shin, S. Jeon, S. Kim, S.-W. Kim*, [Contact electrification controlled by material deformation-induced electronic structure changes](https://www.sciencedirect.com/science/article/abs/pii/S1369702123004030), **Materials Today** 72, 109-116 (2023)
-        12.	B. Kim#, H.-J. Yoon#, **Y.-J. Kim**, B.-J. Park, J.-H. Jung, S.-W. Kim*, [Ultrasound-Driven Triboelectric Nanogenerator with Biocompatible 2-Hydroxyethyl Methacrylate](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00953), **ACS Energy Letters** 8, 3412 (2023)
-        13.	Z.-Y. Huo, **Y.-J. Kim**, Y. Chen, Y. Du, D. Xia, S.-W. Kim*, Q. Yuan*, [Hybrid energy harvesting systems for self-powered sustainable water purification by harnessing ambient energy](https://link.springer.com/article/10.1007/s11783-023-1718-9), **Frontiers of Environmental Science & Engineering** 17, 118 (2023) (review articles)
-        14.	X. Meng#, X. Xiao#, S. Jeon, D. Kim, B.-J. Park, **Y.-J. Kim**, N. Rubab, S. Kim, S.-W. Kim*, [An Ultrasound‐Driven Bioadhesive Triboelectric Nanogenerator for Instant Wound Sealing and Electrically Accelerated Healing in Emergencies](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202209054), **Advanced Materials** 35, 2209054 (2023)
-        15.	I. M. Imani#, B. Kim#, X. Xiao, N. Rubab, B.-J. Park, **Y.-J. Kim**, P. Zhao, M. Kang, S.-W. Kim*, [Ultrasound‐Driven On‐Demand Transient Triboelectric Nanogenerator for Subcutaneous Antibacterial Activity](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202204801), **Advanced Science** 10, 2204801 (2023)
-        16.	B.-G. Park#, C. Lee#, **Y.-J. Kim**, J. Park, H. Kim, Y. Jung, J. S. Ko, S.-W. Kim, J.-H. Lee*, H. Cho*, [Toxic micro/nano particles removal in water via triboelectric nanogenerator](https://www.sciencedirect.com/science/article/abs/pii/S2211285522005110), **Nano Energy** 100, 107433 (2022)
-        17.	M. Kang#, M. S. B. Khusrin#, **Y.-J. Kim**, B. Kim, B.-J. Park, I. Hyun, I. M. Imani, B.-O. Choi, S.-W. Kim*, [Nature-derived highly tribopositive ϰ-carrageenan-agar composite-based fully biodegradable triboelectric nanogenerators](https://www.sciencedirect.com/science/article/abs/pii/S2211285522005584), **Nano Energy** 100, 107480 (2022)
-        18.	Z.-Y. Huo#, D.-M. Lee#, J.-M. Jeong#, **Y.-J. Kim**, J. Kim, I.-Y. Suh, P. Xiong, S.-W Kim*, [Microbial Disinfection with Supercoiling Capacitive Triboelectric Nanogenerator](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202103680), **Advanced Energy Materials** 12, 2103680 (2022)
-        19.	D.-M. Lee#, N. Rubab#, I. Hyun, W. Kang, **Y.-J. Kim**, M. Kang, B. O. Choi*, S.-W. Kim*, [Ultrasound-mediated triboelectric nanogenerator for powering on-demand transient electronics](https://www.science.org/doi/full/10.1126/sciadv.abl8423), **Science Advances** 8, eabl8423 (2022)
-        20.	Z.-Y. Huo, D.-M. Lee, **Y.-J. Kim**, and S.-W. Kim*, [Solar-induced hybrid energy harvesters for advanced oxidation water treatment](https://www.cell.com/iscience/fulltext/S2589-0042(21)00776-8), **iScience** 24, 102808 (2021) (review articles)
-        21.	Z.-Y. Huo, D.-M. Lee, S. Wang, **Y.-J. Kim**, and S.-W. Kim*, [Emerging Energy Harvesting Materials and Devices for Self-Powered Water Disinfection](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202100093), **Small Methods** 5, 2100093 (2021) (review articles)
-        22.	H.-J. Yoon#, D.-M. Lee#, **Y.-J. Kim**, S. Jeon, J.-H. Jung, S. S. Kwak, J. Kim, S. Kim, Y. Kim, and S.-W. Kim*, [Mechanoreceptor-Inspired Dynamic Mechanical Stimuli Perception based on Switchable Ionic Polarization](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100649), **Advanced Functional Materials** 31, 2100649 (2021) <p>
-        
+        8.	Sung, J. H. et al., (2020). Improvement of particle clean air delivery rate of an ion spray electrostatic air cleaner with zero-ozone based on diffusion charging, Building and Environment.
+        9.	Sung, J. H. et al., (2021). Maintaining the PM Removal Efficiency of a Two-Stage ESP With External Ion-Injection Discharge via a Water Film on the Collection Plate and Cleaning of the Ionizer, IEEE Transactions on Industry Applications.
+        10.	Lee, H. et al., (2022). Development of Electrostatic-Precipitator-Type Air Conditioner for Reduction of Fine Particulate Matter in Subway, IEEE Transactions on Industry Applications.
+        11.	Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, Toxics.
+        12.	Lee, H. et al., (2022). Oil-Removal Performance of Rotating-Disk-Type Oil Separator, Energies.
+        13.	Heo, K. J. et al., (2023). The electro-thermal antimicrobial carbon surface, IEEE Transactions on Industry Applications.
+        14.	Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, IEEE Transactions on Industry Applications. 
+        15.	Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, Chemosphere.
+        16.	Park, D. H. et al., (2024) Evaluation of Antiviral Electrostatic Precipitator with Commercially Antiviral Films Coated on Collection Plates Against Aerosolized Viruses, IEEE Transactions on Industry Applications. <p>
+
+        **International Conference papers** 
+
+
         **Patents** <p>
 
-        - Application (KOREA): 9
-        - Registration (KOREA): 16
-        - Application (USA): 7
-        - Registration (USA): 2
+        - Application (KOREA): 39 
+        - Registration (KOREA): 21
+        - Application (International): 6
+        - Registration (International): 0
         
         **Patented Technology Transfer**
         
-        1. KR Application No. 10-2020-0062731, No. 10-2020-0140031, SEMS Co., Ltd., (85,000,000 KRW)<p>
-        2. KR Application No. 10-2020-0099247, SEMS Co., Ltd., (58,000,000 KRW) <p>
-        3. KR Application No. 10-2020-0056913, US Application No. 17/110,673, SEMS Co., Ltd., (79,000,000 KRW)<p>
-        4. KR Application No. 10-2020-0145170, US Application No. 17/510,675 Energymining Co., Ltd., (300,000,000 KRW)<p>
+        1. KR Application No. 1020200075671, Century Co., Ltd., (85,000,000 KRW)<p>
+        2. KR Application No. 1020200101194, HYESEONG TECH Co., Ltd., (58,000,000 KRW) <p>
+        3. KR Application No. 1020200156433, ART PLUS Co., Ltd., (79,000,000 KRW)<p>
 
   - block: markdown
     id: awards-and-honors
     content:
       title: Awards and Honors #1
       text: |
-        - **Sejong Science Fellowship** (Domestic Track, 5 years, 100,000,000 KRW/year ≒ 72,000 USD/year) <p>*Allowed to be dispatched to overseas research institute for 1 year 
-        - Samsung Humantech Silver Medal (2023)
-        - Outstanding Poster Presentation Award (12th TBIS)
-        - Energy Technology Innovation Ideas (Ministry of Ministry of Commerce Industry and Energy)
-        - SKKU Research Matters
-        - Best Paper Award (PVSEC-30 & GPVC 2020)
-        - SKKU Best Paper Award
-        - The Best Outstanding Master/Ph.D Student Award, BK21 Program
-        - Best Presentation Award (NCC 2022)
-        - Excellent Student Presentation Award (ECS 242nd Meeting)
+        **Scholarship** <p>
+        •	2014- 2017. Hanyang Academic Excellence Scholarship (7 semesters)
+        •	2016- 2017. National Science & Technology Scholarship (4 semesters)
+        •	2017.       Guwon Scholarship
+        •	2018- 2019. Hyundai Motors Research Scholarship <p>
+
+        **Awards** <p>
+        
+        •	2017.	The best paper award, Hanyang Mechanical Engineering Design Competition
+        •	2019.	Outstanding paper award, 2019 Summer Conference of Korean Society of Visualization
+        •	2020.	Outstanding paper award, 2020 Annual Conference of Korean Society for indoor Environment
+        •	2021.	Outstanding paper award, 2021 Annual Conference of Korean Association for Particle and Aerosol Research
+        •	2021.	Outstanding paper award, The 3rd Asian Conference on Railway Engineering and Transportation
+        •	**2021.	The best paper award, 2021 Seoul Global Challenge** (7,000 USD) ([YouTube](https://www.youtube.com/watch?v=Aqv8clNCg2A), [News](https://smartcity.go.kr/en/2021/12/16/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%A0%80%EA%B0%90%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%9E%91%EC%8A%A4%EC%97%B0%EA%B5%AC/))
+        •	2022.	Outstanding paper award, 2022 Annual Conference of Korean Association for Particle and Aerosol Research
+        •	2022.	Outstanding paper award, 2022 Annual Conference of Korean Society for Atmospheric Environment
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
 
   - block: markdown

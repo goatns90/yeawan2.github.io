@@ -21,7 +21,7 @@ interests:
   - Airborne pathogen inactivation
   - Rapid diagnostics
   - Electrostatic discharge
-  - Fluidics 
+  - Fluid mechanics
 
 # Education to show in About widget
 education:
@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/young-jun-kim-986925273/
+  link: 
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/my-orcid?orcid=0000-0003-0056-4474
@@ -65,4 +65,4 @@ highlight_name: true
 ---
 I am currently a researcher in Department of urban environment research at the Korea Institute of Machinery and Materials (KIMM), a journey I embarked on in 2019.12. Before I join KRICT, I received a M.S. degree in Mechanical Engineering from Korea Institute of Machinery and Materials [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
 
-My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I develop air pollution control devices including **electrostatic precipitators** and **Scrubbers** for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am developing **real-time aerosol mass balance**, and ionic wind assisted **particle removing fan**.
+My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I develop air pollution control devices including **electrostatic precipitators** and **Scrubbers** for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am developing **real-time aerosol mass balance**, and air purifying **ionic fan**.
