@@ -53,7 +53,7 @@ social:
   link: 
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/my-orcid?orcid=0000-0003-0056-4474
+  link: https://orcid.org/0000-0003-0056-4474
 # - icon: download
 #   icon_pack: fas
 #   link: uploads/cv_sukkyung_kang.pdf
