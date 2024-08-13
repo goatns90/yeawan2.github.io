@@ -1,6 +1,6 @@
 ---
-title: High-Performing and Capacitive-Matched Triboelectric Implants Driven by Ultrasound
-summary: Y.-J. Kim#, J. Lee#, J.-H Hwang#, Y. Chung, B. J. Park, J. Kim, S.-H. Kim, H.-J. Yoon, S.-M. Park*, S.-W. Kim*, **Advanced Materials**, 36, 2307194 (2024)
+title: Indoor air quality management
+summary: For the comfortable building air environment, I am developing novel air quality management system with electrostatic technology. 
 date: '2024-01-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
