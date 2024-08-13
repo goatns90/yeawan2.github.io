@@ -79,17 +79,25 @@ sections:
         
         **Contributing authored papers** <p>
 
-        8.	Sung, J. H. et al., (2020). Improvement of particle clean air delivery rate of an ion spray electrostatic air cleaner with zero-ozone based on diffusion charging, Building and Environment.
-        9.	Sung, J. H. et al., (2021). Maintaining the PM Removal Efficiency of a Two-Stage ESP With External Ion-Injection Discharge via a Water Film on the Collection Plate and Cleaning of the Ionizer, IEEE Transactions on Industry Applications.
-        10.	Lee, H. et al., (2022). Development of Electrostatic-Precipitator-Type Air Conditioner for Reduction of Fine Particulate Matter in Subway, IEEE Transactions on Industry Applications.
-        11.	Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, Toxics.
-        12.	Lee, H. et al., (2022). Oil-Removal Performance of Rotating-Disk-Type Oil Separator, Energies.
-        13.	Heo, K. J. et al., (2023). The electro-thermal antimicrobial carbon surface, IEEE Transactions on Industry Applications.
-        14.	Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, IEEE Transactions on Industry Applications. 
-        15.	Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, Chemosphere.
-        16.	Park, D. H. et al., (2024) Evaluation of Antiviral Electrostatic Precipitator with Commercially Antiviral Films Coated on Collection Plates Against Aerosolized Viruses, IEEE Transactions on Industry Applications. <p>
+        8.	Sung, J. H. et al., (2020). Improvement of particle clean air delivery rate of an ion spray electrostatic air cleaner with zero-ozone based on diffusion charging, *Building and Environment.*
+        9.	Sung, J. H. et al., (2021). Maintaining the PM Removal Efficiency of a Two-Stage ESP With External Ion-Injection Discharge via a Water Film on the Collection Plate and Cleaning of the Ionizer, *IEEE Transactions on Industry Applications.*
+        10.	Lee, H. et al., (2022). Development of Electrostatic-Precipitator-Type Air Conditioner for Reduction of Fine Particulate Matter in Subway, *IEEE Transactions on Industry Applications.*
+        11.	Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, *Toxics.*
+        12.	Lee, H. et al., (2022). Oil-Removal Performance of Rotating-Disk-Type Oil Separator, *Energies.*
+        13.	Heo, K. J. et al., (2023). The electro-thermal antimicrobial carbon surface, *IEEE Transactions on Industry Applications.*
+        14.	Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, *IEEE Transactions on Industry Applications.* 
+        15.	Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, *Chemosphere.*
+        16.	Park, D. H. et al., (2024) Evaluation of Antiviral Electrostatic Precipitator with Commercially Antiviral Films Coated on Collection Plates Against Aerosolized Viruses, *IEEE Transactions on Industry Applications.* <p>
 
         **International Conference papers** 
+        •	Lee, Y., Kim, Y., Park, K., Kim, H., A liquid drop impact on a liquid pool with an inclined bottom substrate, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, Georgia (USA), 2018
+        •	Lee, Y., Kim, Y., Kim, H., Study on a vertically falling droplet toward a liquid pool, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, Washington (USA), 2019
+        •	Lee, Y., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Extremely low ozone emission electrostatic compact air purifier using carbon fiber ionizers and carbon film collection stage, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
+        •	Lee, Y., Sung, J.-H., Han, B., Kim, Y.-J., Kim, H.-J., Particle removal performance of a two stage electrostatic precipitator with carbon based nonmetallic collection plates for oil mist, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
+        •	Lee, Y., Kim, Y.-S., Lee, H., Han, B., Kim, Y.-J., Kim, H.-J., The daily distribution of PM2.5 in Subway station and Reduction, The 3rd Asian Conference on Railway Engineering and Transportation, Jeju (South Korea), 2021
+        •	Lee, Y., An, S.-H., Yu, C. R., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Gas absorption and particle removal performance of wet parallel-membrane array system, 2021 IEEE Industry Applications Society Annual Meeting, Vancouver, British Columbia (Canada), 2021
+        •	Lee, Y., Kim, Y.-S., Lee, H., An, S.-H., Han, B., Kim, Y.-J., Kim, H.-J., Retrofit of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, 2022 Joint Conference on Electrostatics, Charlotte, North Carolina (USA), 2022
+        •	Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
 
 
         **Patents** <p>
