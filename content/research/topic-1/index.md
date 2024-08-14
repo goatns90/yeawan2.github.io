@@ -2,13 +2,17 @@
 title: Air pollution control devices
 summary: For the sustaiable air environment, I am developing novel air pollution control devices to remove air pollutants exhausted from industry such as steel mills, coal power plants, and semiconductor factories. 
 date: '2024-04-12T00:00:00Z'
+type: research
+featured: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
 
 image:
-  caption:   
-  focal_point: Smart
+  caption: ''
+  focal_point: ''
+  preview_only: false
+  
+external_link: ''
 
 url_code: ''
 url_pdf: ''
@@ -28,9 +32,8 @@ url_video: ''
 }
 </style>
 
-{{< figure src="/images/KI-scrubber.jpg" title="Acoustic impedance" caption="topic1-1 acoustic mismatching technology" >}}
+{{< figure src="/images/KI-scrubber.jpg" title="Acoustic impedance technology" caption="Topic 1-1: Acoustic mismatching technology" >}}
 
-<!-- # scrubber 설명 -->
 In a wet scrubber, the polluted gas stream is brought into contact with the scrubbing liquid, by spraying it with the liquid to remove the pollutants, including gases, and particles. To control anthropogenic sources of NOx from flue gas, the selective non-catalytic reduction (SNCR) or selective catalytic reduction (SCR) process is generally employed. However, SNCR and SCR requires high temperature over 300 &deg;C. To overcome this limitation, I developed a novel wet scrubber to remove NOx operating in a low-temperature under 50 &deg;C. This technology succeeded in pilot demonstration tests in a steel mill, coal power plant, and semiconductor factory. 
 **Related papers** <p>
 - **Lee, Y.** et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*<p>
@@ -39,7 +42,6 @@ In a wet scrubber, the polluted gas stream is brought into contact with the scru
 **Related projects**<p>
 - Development of ultra-clean machinery technologies of future power generation systems against PM2.5 fine particles and greenhouse gases (2018-2023)
 
-<!-- # ESP 설명 -->
 {{< figure src="/uploads/plastic ESP.png" title="Acoustic impedance" caption="topic1-1 acoustic mismatching technology" >}}
 
 An electrostatic precipitator (ESP) removes fine particles by electrically charging particles and collecting them through electrostatic force. ESPs are effective in handling large gas volumes with heavy dust loads. However, industrial ESPs are costly because the exhaust gases of power plants and semiconductor manufacturing plants contain corrosive acid gases, as well as particulate matters. Therefore, I developed highly efficient, corrosion-resistant two-
