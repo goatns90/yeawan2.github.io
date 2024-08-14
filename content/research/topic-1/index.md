@@ -36,6 +36,7 @@ url_video: ''
 {{< figure src="/uploads/KI-scrubber.jpg" title="Acoustic impedance technology" caption="Topic 1-1: Acoustic mismatching technology" >}}
 
 In a wet scrubber, the polluted gas stream is brought into contact with the scrubbing liquid, by spraying it with the liquid to remove the pollutants, including gases, and particles. To control anthropogenic sources of NOx from flue gas, the selective non-catalytic reduction (SNCR) or selective catalytic reduction (SCR) process is generally employed. However, SNCR and SCR requires high temperature over 300 &deg;C. To overcome this limitation, I developed a novel wet scrubber to remove NOx operating in a low-temperature under 50 &deg;C. This technology succeeded in pilot demonstration tests in a steel mill, coal power plant, and semiconductor factory. 
+
 **Related papers** <p>
 - **Lee, Y.** et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*<p>
 - Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, *Chemosphere.*
