@@ -38,7 +38,7 @@ In a wet scrubber, the polluted gas stream is brought into contact with the scru
 **Related projects**<p>
 - Development of ultra-clean machinery technologies of future power generation systems against PM2.5 fine particles and greenhouse gases (2018-2023)
 
-{{< figure src="../topic-1/plasticesp.png" title="title2" caption="Topic1-2 caption" >}}
+{{< figure src="../topic-1/plastic-esp.png" title="title2" caption="Topic1-2 caption" >}}
 
 An electrostatic precipitator (ESP) removes fine particles by electrically charging particles and collecting them through electrostatic force. ESPs are effective in handling large gas volumes with heavy dust loads. However, industrial ESPs are costly because the exhaust gases of power plants and semiconductor manufacturing plants contain corrosive acid gases, as well as particulate matters. Therefore, I developed highly efficient, corrosion-resistant two-
 stage ESP using carbon-based plastic collection plates. The plastic plates not only economical and anti-corrosive, but also improved electrical stabiltiy of the ESP preventing abnormal sparks even in extremely humid environment. This technology succeeded in pilot demonstration tests in a coal power plant.
