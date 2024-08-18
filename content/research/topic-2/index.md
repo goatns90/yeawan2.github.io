@@ -1,7 +1,7 @@
 ---
 title: Indoor air quality management
 summary: For the comfortable building air environment, I am developing novel air quality management system with electrostatic technology. 
-date: '2024-01-11T00:00:00Z'
+date: '2024-08-18T00:00:00Z'
 
 
 # Optional external URL for project (replaces project detail page).
@@ -37,7 +37,7 @@ A novel electrostatic precipitator (ESP)-type small air purifier with an ion spr
 **Related projects**<p>
 - Development of commercialization technology of a filter-free air cleaner (2022)
 
-{{< figure src="../topic-2/HVAC.jpg" title="HVAC" caption="Retrofitted HVAC system by the novel ESP for building environment" >}}
+{{< figure src="../topic-2/HVAC.jpg" title="HVAC" caption="Retrofitted HVAC system for building environment" >}}
 
 ESPs can effectively remove PM2.5 with a low pressure drop, resulting in an energy-efficient air quality management system compared to filters. However, the ozone emissions from ESPs hinder their use for indoor air purification.In a building environment. Therefore, I developed low-ozone emission and highly integrated ESPs and its regeneration system for building environment. Carbon fiber ionizers were adopted in a pre-charger to reduce ozone generation and carbon coated plastics were used to reduce weight and installation cost. Our team demonstrated field study through retrofitting heating, ventilation, air conditioning (HVAC) systems of subway stations by our novel ESPs. <p>
 **Related papers**<p>
@@ -46,7 +46,7 @@ ESPs can effectively remove PM2.5 with a low pressure drop, resulting in an ener
 - **Lee, Y.** et al., (2024) Retrofitting of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, *IEEE Transactions on Industry Applications.*
 - Lee, H. et al., (2022). Development of Electrostatic-Precipitator-Type Air Conditioner for Reduction of Fine Particulate Matter in Subway, *IEEE Transactions on Industry Applications.*
 - Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, *Toxics.*
-- Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, *IEEE Transactions on Industry Applications.*  <p>
+- Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, *IEEE Transactions on Industry Applications.*<p>
 
 **Related projects**<p>
 -	Development of anti-microbial/-virus HVAC module to prevent disease transmission (2021-2023)

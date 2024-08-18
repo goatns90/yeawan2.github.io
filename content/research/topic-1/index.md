@@ -52,4 +52,4 @@ Furthermore, I develped another non-metallic hydrophilic fabric membrane based E
 
 **Related projects**<p>
 - Core technology development of removal of acid gas and fine particle for coal power plant (2108-2023)<p>
-- Development of an electrostatic precipitation technology using super-hydrophilic membrane for future regulation of particulate matter concentration less than 1 mg/m3 (2020-2022)
+- Development of an electrostatic precipitation technology using super-hydrophilic membrane for future regulation of particulate matter concentration less than 1 mg/m3 (2020-2022) <p>
