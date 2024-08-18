@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of fluids 
 summary: Behind practical applicaitons, I am delving into understanding fluid mechanics, interfacial dynamics, aerodynamics, electrohydrodynamics, and particle dynamics. 
-date: '2022-04-20T00:00:00Z'
+date: '2024-04-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 
