@@ -25,7 +25,7 @@ image:
 }
 </style>
 
-{{< figure src="../topic-5/module.png" title="QCM-based real-time aerosol mass concentration sensor" >}}
+{{< figure src="../topic-5/QCM.png" title="QCM-based real-time aerosol mass concentration sensor" >}}
 
 Ambient air pollution is a critical risk factor for human diseases. Despite advances in aerosol sensor technology, acruate measurement of aeorosol mass concentration still depends on gravimetric method by measuring weight of filters after sampling large volume of air. In this study, we are developing a **real-time aersol mass sensing system** based on a quartz crystal microbalance (QCM) that can accurately measure the fine mass of airborne particles. We employed inertial impactors to separate particles by size, enabling direct measurement of PM1, PM2.5, and PM10.  <p>
 
