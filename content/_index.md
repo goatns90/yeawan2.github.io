@@ -118,13 +118,13 @@ sections:
       title: Awards and Honors #1
       text: |
         **Scholarship** <p>
-
+        
         -	2014- 2017. Hanyang Academic Excellence Scholarship (7 semesters)
         -	2016- 2017. National Science & Technology Scholarship (4 semesters)
         -	2017- 2017. Guwon Scholarship
         -	2018- 2019. Hyundai Motors Research Scholarship <p>
 
-        **Awards**
+        **Awards** <p>
 
         - 2017	The best paper award, Hanyang Mechanical Engineering Design Competition
         - 2019	Outstanding paper award, 2019 Summer Conference of Korean Society of Visualization
