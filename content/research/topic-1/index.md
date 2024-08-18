@@ -41,6 +41,10 @@ In a wet scrubber, the polluted gas stream is brought into contact with the scru
 {{< figure src="../topic-1/plasticesp.png" title="title2" caption="Non-metallic plstic ESP" >}}
 
 An electrostatic precipitator (ESP) removes fine particles by electrically charging particles and collecting them through electrostatic force. ESPs are effective in handling large gas volumes with heavy dust loads. However, industrial ESPs are costly because the exhaust gases of power plants and semiconductor manufacturing plants contain corrosive acid gases, as well as particulate matters. Therefore, I developed highgly efficient, and anticorrosive two-stage ESP using carbon ink coated platic plates. The plastic plates not only economical and anti-corrosive, but also improved electrical stabiltiy of the ESP preventing abnormal sparks even in extremely humid environment. This technology succeeded in pilot demonstration tests in a coal power plant.<p>
+
+{{< figure src="../topic-1/MembraneESP.png" title="MembraneESP" caption="Non-metallic wet membrane ESP" >}}
+Furthermore, I develped another non-metallic hydrophilic fabric membrane based ESPs to remove particles and acid gases simultaneously. Unlike scrubbers, acid gases are absorbed into the wet membrane through diffusion with nearly zero pressure drop. 
+
 **Related papers**<p>
 - Sung, J. H. et al., (2021). Maintaining the PM Removal Efficiency of a Two-Stage ESP With External Ion-Injection Discharge via a Water Film on the Collection Plate and Cleaning of the Ionizer, *IEEE Transactions on Industry Applications.*
 - **Lee, Y.** et al., (2022). Removal of Mist Particles by a Two-Stage Electrostatic Precipitator Featuring Plastic Plate Electrodes, *IEEE Transactions on Industry Applications.*
