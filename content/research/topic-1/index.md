@@ -1,6 +1,6 @@
 ---
 title: Air pollution control devices
-summary: For the sustaiable air environment, I am developing novel air pollution control devices to remove air pollutants exhausted from industry such as steel mills, coal power plants, and semiconductor factories. 
+summary: For the sustainable air environment, I am developing novel air pollution control devices to remove air pollutants exhausted from industry such as steel mills, coal power plants, and semiconductor factories. 
 date: '2024-04-12T00:00:00Z'
 type: research
 featured: false
