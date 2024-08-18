@@ -1,6 +1,6 @@
 ---
-title: Fundamentals of fluids 
-summary: Behind practical applicaitons, I am delving into understanding fluid mechanics, interfacial dynamics, aerodynamics, electrohydrodynamics, and particle dynamics. 
+title: Sensor Technolgy
+summary: I am currently developing real-time aerosol mass sensor for sustainable environment.
 date: '2024-04-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
