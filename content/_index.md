@@ -126,7 +126,7 @@ sections:
 
         **Awards**
 
-        -	2017	The best paper award, Hanyang Mechanical Engineering Design Competition
+        - 2017	The best paper award, Hanyang Mechanical Engineering Design Competition
         - 2019	Outstanding paper award, 2019 Summer Conference of Korean Society of Visualization
         - 2020	Outstanding paper award, 2020 Annual Conference of Korean Society for indoor Environment
         - 2021	Outstanding paper award, 2021 Annual Conference of Korean Association for Particle and Aerosol Research
