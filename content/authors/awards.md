@@ -14,7 +14,7 @@ type: "awards"  # 'awards' 타입을 생성하거나 기존에 사용 가능한 
         -	2017- 2017. Guwon Scholarship
         -	2018- 2019. Hyundai Motors Research Scholarship <p>
 
-        **Awards**
+        **Awards** <p>
 
         - 2017	The best paper award, Hanyang Mechanical Engineering Design Competition
         - 2019	Outstanding paper award, 2019 Summer Conference of Korean Society of Visualization

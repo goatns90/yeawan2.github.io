@@ -106,7 +106,7 @@ sections:
         - Application (International): 6
         - Registration (International): 0
         
-        **Patented Technology Transfer**
+        **Patented Technology Transfer** <p>
         
         1. KR Application No. 1020200075671, Century Co., Ltd., (85,000,000 KRW)<p>
         2. KR Application No. 1020200101194, HYESEONG TECH Co., Ltd., (58,000,000 KRW) <p>
@@ -135,7 +135,7 @@ sections:
         - 2022	Outstanding paper award, 2022 Annual Conference of Korean Association for Particle and Aerosol Research
         - 2022	Outstanding paper award, 2022 Annual Conference of Korean Society for Atmospheric Environment
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-      
+
   - block: markdown
     id: gallery
     content:
