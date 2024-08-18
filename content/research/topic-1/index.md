@@ -27,7 +27,7 @@ image:
 }
 </style>
 
-{{< figure src="../topic-1/kiscrubber.png" title="title" caption="Simultaneous NOx & SOx removing scrubber in low-temperature environment" >}}
+{{< figure src="../topic-1/kiscrubber.png" title="title" caption="NOx removing scrubber in low-temperature environment" >}}
 
 In a wet scrubber, the polluted gas stream is brought into contact with the scrubbing liquid, by spraying it with the liquid to remove the pollutants, including gases, and particles. To control anthropogenic sources of NOx from flue gas, the selective non-catalytic reduction (SNCR) or selective catalytic reduction (SCR) process is generally employed. However, SNCR and SCR requires high temperature over 300 &deg;C. To overcome this limitation, I developed a novel wet scrubber to remove NOx operating at a low-temperature under 50 &deg;C. This technology succeeded in pilot demonstration tests in a steel mill, coal power plant, and semiconductor factory. <p>
 
