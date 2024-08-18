@@ -118,7 +118,7 @@ sections:
       title: Awards and Honors #1
       text: |
         **Scholarship** <p>
-        
+
         -	2014- 2017. Hanyang Academic Excellence Scholarship (7 semesters)
         -	2016- 2017. National Science & Technology Scholarship (4 semesters)
         -	2017- 2017. Guwon Scholarship
@@ -135,7 +135,7 @@ sections:
         - 2022	Outstanding paper award, 2022 Annual Conference of Korean Association for Particle and Aerosol Research
         - 2022	Outstanding paper award, 2022 Annual Conference of Korean Society for Atmospheric Environment
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
-
+      
   - block: markdown
     id: gallery
     content:
