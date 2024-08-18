@@ -119,7 +119,7 @@ sections:
         **Scholarship** <p>
         -	2014- 2017. Hanyang Academic Excellence Scholarship (7 semesters)
         -	2016- 2017. National Science & Technology Scholarship (4 semesters)
-        -	2017.       Guwon Scholarship
+        -	2017.       Guwon Scholarship 
         -	2018- 2019. Hyundai Motors Research Scholarship <p>
 
         **Awards** <p>
