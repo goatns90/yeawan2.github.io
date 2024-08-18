@@ -87,15 +87,16 @@ sections:
         15.	Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, *Chemosphere.*
         16.	Park, D. H. et al., (2024) Evaluation of Antiviral Electrostatic Precipitator with Commercially Antiviral Films Coated on Collection Plates Against Aerosolized Viruses, *IEEE Transactions on Industry Applications.* <p>
 
-        **International Conference papers** 
-        •	Lee, Y., Kim, Y., Park, K., Kim, H., A liquid drop impact on a liquid pool with an inclined bottom substrate, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, Georgia (USA), 2018
-        •	Lee, Y., Kim, Y., Kim, H., Study on a vertically falling droplet toward a liquid pool, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, Washington (USA), 2019
-        •	Lee, Y., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Extremely low ozone emission electrostatic compact air purifier using carbon fiber ionizers and carbon film collection stage, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
-        •	Lee, Y., Sung, J.-H., Han, B., Kim, Y.-J., Kim, H.-J., Particle removal performance of a two stage electrostatic precipitator with carbon based nonmetallic collection plates for oil mist, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
-        •	Lee, Y., Kim, Y.-S., Lee, H., Han, B., Kim, Y.-J., Kim, H.-J., The daily distribution of PM2.5 in Subway station and Reduction, The 3rd Asian Conference on Railway Engineering and Transportation, Jeju (South Korea), 2021
-        •	Lee, Y., An, S.-H., Yu, C. R., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Gas absorption and particle removal performance of wet parallel-membrane array system, 2021 IEEE Industry Applications Society Annual Meeting, Vancouver, British Columbia (Canada), 2021
-        •	Lee, Y., Kim, Y.-S., Lee, H., An, S.-H., Han, B., Kim, Y.-J., Kim, H.-J., Retrofit of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, 2022 Joint Conference on Electrostatics, Charlotte, North Carolina (USA), 2022
-        •	Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
+        **International Conference papers** <p>
+
+        1.	Lee, Y., Kim, Y., Park, K., Kim, H., A liquid drop impact on a liquid pool with an inclined bottom substrate, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, Georgia (USA), 2018
+        2.	Lee, Y., Kim, Y., Kim, H., Study on a vertically falling droplet toward a liquid pool, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, Washington (USA), 2019
+        3.	Lee, Y., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Extremely low ozone emission electrostatic compact air purifier using carbon fiber ionizers and carbon film collection stage, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
+        4.	Lee, Y., Sung, J.-H., Han, B., Kim, Y.-J., Kim, H.-J., Particle removal performance of a two stage electrostatic precipitator with carbon based nonmetallic collection plates for oil mist, 2020 IEEE Industry Applications Society Annual Meeting, Detroit, Michigan (USA), 2020
+        5.	Lee, Y., Kim, Y.-S., Lee, H., Han, B., Kim, Y.-J., Kim, H.-J., The daily distribution of PM2.5 in Subway station and Reduction, The 3rd Asian Conference on Railway Engineering and Transportation, Jeju (South Korea), 2021
+        6.	Lee, Y., An, S.-H., Yu, C. R., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Gas absorption and particle removal performance of wet parallel-membrane array system, 2021 IEEE Industry Applications Society Annual Meeting, Vancouver, British Columbia (Canada), 2021
+        7.	Lee, Y., Kim, Y.-S., Lee, H., An, S.-H., Han, B., Kim, Y.-J., Kim, H.-J., Retrofit of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, 2022 Joint Conference on Electrostatics, Charlotte, North Carolina (USA), 2022
+        8.	Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
 
 
         **Patents** <p>
@@ -117,12 +118,13 @@ sections:
       title: Awards and Honors #1
       text: |
         **Scholarship** <p>
+
         -	2014- 2017. Hanyang Academic Excellence Scholarship (7 semesters)
         -	2016- 2017. National Science & Technology Scholarship (4 semesters)
         -	2017- 2017. Guwon Scholarship
         -	2018- 2019. Hyundai Motors Research Scholarship <p>
 
-        **Awards** <p>
+        **Awards**
         
         -	2017.	The best paper award, Hanyang Mechanical Engineering Design Competition
         -	2019.	Outstanding paper award, 2019 Summer Conference of Korean Society of Visualization
