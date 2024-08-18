@@ -40,5 +40,5 @@ Electrohydrodynamics (EHD) is a specific study of this phenomenon concerning the
 The liquid drop impact problems are widely investigated for multiple aspects including soil erosion, aerosol generation, and disease transmission. In this research, I investigated the impact of a vertically falling droplet onto a non-uniform liquid depth having a linear slope of the bottom substrate. Here, I reported that the resulting jet direction is inclined to the shallow liquid depth after the droplet impact, which is found to be markedly distinct from a vertically falling droplet onto a uniform liquid bath. From the systematic experiments varying the fluid propoerties, impact parameters, and geometry of bath, I provided a simple scaling model to predict the inclination angle ofthe resulting jet after the drop impact on the inclined liquid pool. <p>
 
 **Related papers** <p>
-- Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids.*
+- Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids*.
 <p>

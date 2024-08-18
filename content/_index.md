@@ -68,7 +68,7 @@ sections:
         [(Google scholar)](https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ)<p>
         **First authored papers**<p>
         1.	Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids.*
-        2.	Lee, Y. et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.*  
+        2.	Lee, Y. et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.* 
         3.	Lee, Y. et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*
         4.	Kim, Y. S.#, Lee, Y.# et al., (2022). Improvement of an In-Duct Two-Stage Electrostatic Precipitator via Diffusion Charging, *Toxics.*
         5.	Lee, Y. et al., (2022). Removal of Mist Particles by a Two-Stage Electrostatic Precipitator Featuring Plastic Plate Electrodes, *IEEE Transactions on Industry Applications.*
