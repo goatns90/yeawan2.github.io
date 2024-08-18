@@ -25,20 +25,10 @@ image:
 }
 </style>
 
-{{< figure src="../topic-4/ionicfan.png" title="Concept of air purifying ionic fan" >}}
+{{< figure src="../topic-5/module.png" title="QCM-based real-time aerosol mass concentration sensor" >}}
 
-Electrohydrodynamics (EHD) is a specific study of this phenomenon concerning the transport of charged dielectric fluids under strong electric fields.I proposed an idea of rotary fan that purifies air by itself. EHD force generated at the tip of emitters provide thrust for rotational motion. Simultaneously, airborne particles passing the device is charged by the negatively ionized air and then captured at the collector along with electric field. I meticulously investigate the fundamental mechanisms of the rotation through both analytical and numerical approaches. Finally, I demonstrate flow generation and aerosol collection in experiments and establish a universal law to delineate the particle collection mechanism.  
- <p>
-
-**Related papers** <p>
-- Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller*, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
-<p>
+Ambient air pollution is a critical risk factor for human diseases. Despite advances in aerosol sensor technology, acruate measurement of aeorosol mass concentration still depends on gravimetric method by measuring weight of filters after sampling large volume of air. In this study, we are developing a **real-time aersol mass sensing system** based on a quartz crystal microbalance (QCM) that can accurately measure the fine mass of airborne particles. We employed inertial impactors to separate particles by size, enabling direct measurement of PM1, PM2.5, and PM10.  <p>
 
 
-{{< figure src="../topic-4/PoF.png" title="Comparison of the evolution of the liquid interface deformation depending on an inclined bottom substrate" >}}
-
-The liquid drop impact problems are widely investigated for multiple aspects including soil erosion, aerosol generation, and disease transmission. In this research, I investigated the impact of a vertically falling droplet onto a non-uniform liquid depth having a linear slope of the bottom substrate. Here, I reported that the resulting jet direction is inclined to the shallow liquid depth after the droplet impact, which is found to be markedly distinct from a vertically falling droplet onto a uniform liquid bath. From the systematic experiments varying the fluid propoerties, impact parameters, and geometry of bath, I provided a simple scaling model to predict the inclination angle ofthe resulting jet after the drop impact on the inclined liquid pool. <p>
-
-**Related papers** <p>
-- Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids*.
-<p>
+**Related projects**<p>
+-	Development of NEMS resonant sensor integrated system for real-time monitoring of ultra-fine particle and its properties (2023-2025)
