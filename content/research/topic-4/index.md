@@ -1,24 +1,14 @@
 ---
-title: Virus blocking textile for SARS-CoV-2 using human body triboelectric energy harvesting
-summary: M. Kang#, N.-Y. Jang#, Y.-J. Kim#, H.-J. Ro#, D. Kim, Y. Kim, H. T. Kim, H. M. Kwon, J.-H. Ahn, B.-O. Choi, N.-H. Cho*, and S.-W. Kim*, **Cell Reports Physical Science*** 3, 100813 (2022)
+title: Fundamentals of fluids 
+summary: Behind practical applicaitons, I am delving into understanding fluid mechanics, interfacial dynamics, aerodynamics, electrohydrodynamics, and particle dynamics. 
 date: '2022-04-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
 
 image:
-  caption:   
-  focal_point: Smart
-
-links:
-  - icon: link
-    icon_pack: fas
-    name: link
-    url: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00083-2
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -26,6 +16,29 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
 ---
 
-Effective mitigation technology to prevent the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is required before achieving population immunity through vaccines. Here we demonstrate a virus-blocking textile (VBT) that repulses SARS-CoV-2 by applying repulsive Coulomb force to respiratory particles, powered by human body triboelectric energy harvesting. We show that SARS-CoV-2 has negative charges, and a human body generates high output current of which peak-to-peak value reaches 259.6 μA at most, based on triboelectric effect. Thereby, the human body can sustainably power a VBT to have negative electrical potential, and the VBT highly blocks SARS-CoV-2 by repulsion. In an acrylic chamber study, we found that the VBT blocks SARS-CoV-2 by 99.95%, and SARS-CoV-2 in the VBT is 13-fold reduced. Our work provides technology that may prevent the spread of virus based on repulsive Coulomb force and triboelectric energy harvesting.
+<style>
+.featured-image {
+  display: none !important;
+}
+</style>
+
+{{< figure src="../topic-4/ionicfan.png" title="Concept of air purifying ionic fan" >}}
+
+Electrohydrodynamics (EHD) is a specific study of this phenomenon concerning the transport of charged dielectric fluids under strong electric fields.I proposed an idea of rotary fan that purifies air by itself. EHD force generated at the tip of emitters provide thrust for rotational motion. Simultaneously, airborne particles passing the device is charged by the negatively ionized air and then captured at the collector along with electric field. I meticulously investigate the fundamental mechanisms of the rotation through both analytical and numerical approaches. Finally, I demonstrate flow generation and aerosol collection in experiments and establish a universal law to delineate the particle collection mechanism.  
+ <p>
+
+**Related papers** <p>
+- Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller*, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
+<p>
+
+
+{{< figure src="../topic-4/PoF.png" title="Comparison of the evolution of the liquid interface deformation depending on an inclined bottom substrate" >}}
+
+The liquid drop impact problems are widely investigated for multiple aspects including soil erosion, aerosol generation, and disease transmission. In this research, I investigated the impact of a vertically falling droplet onto a non-uniform liquid depth having a linear slope of the bottom substrate. Here, I reported that the resulting jet direction is inclined to the shallow liquid depth after the droplet impact, which is found to be markedly distinct from a vertically falling droplet onto a uniform liquid bath. From the systematic experiments varying the fluid propoerties, impact parameters, and geometry of bath, I provided a simple scaling model to predict the inclination angle ofthe resulting jet after the drop impact on the inclined liquid pool. <p>
+
+**Related papers** <p>
+- Lee, Y.#, Shin, S.# et al., (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth, *Physics of Fluids.*
+<p>

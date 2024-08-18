@@ -1,24 +1,15 @@
 ---
-title: Self-powered Fine Dust Filtration System Using Triboelectrification Induced Electric Field
-summary: Y.-J. Kim#, H. T. Kim#, J. H. Lee#, I.-Y. Suh, S.-W. Kim*, **Nanoscale Research Letters** 17, 1-9 (2022)
-date: '2022-12-23T00:00:00Z'
+title: Airborne pathogen inactivation
+summary: In response to COVD-10 pandemic, I am taking action to address the urgent challenge of pathogen spread developing air purification technologies for collecting and disinfecting airborne pathogens (bioaerosols) in indoor air
+date: '2024-08-19T00:00:00Z'
+
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
 
 image:
-  caption:   
-  focal_point: Smart
-
-links:
-  - icon: link
-    icon_pack: fas
-    name: link
-    url: https://link.springer.com/article/10.1186/s11671-022-03749-6
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -26,6 +17,24 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
 ---
 
-Particulate matter (PM) in the environment can adversely affect the health of living things. However, high removal efficiency and low-pressure loss are crucial design challenges for any air filtration system. To circumvent the challenge, here, we demonstrate a novel triboelectric (TE) air filtration system that is based on a rotation-type triboelectric nanogenerator (TENG) and a filter comprising two sets of plates: primary and secondary, that are placed in the airflow channel. When the TENG charges the two plate sets with opposite charges, the flowing air particles are charged at the primary plates and are collected, due to an electric field, at the secondary plates. The TE filter has demonstrated a PM2.5 removal efficiency of ~ 99.97% for the fine dust particles, and it remains stable even after several washing cycles. The pressure loss is almost two orders less than the high-efficiency particulate air filter. Since the airflow itself can drive the TENG, the TE filter can potentially be integrated with any air conditioning system for fine dust filtration in offices, automobiles, etc.
+<style>
+.featured-image {
+  display: none !important;
+}
+</style>
+
+{{< figure src="../topic-3/AntimicrobialESP.png" title="AntimicrobialESP" caption="Antimicrobial Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces" >}}
+
+Particulate matter, including airborne pathogens, is of particular concern because it can cause the spread of diseases through aerosol transmission. In response to COVID-19 pandemic, our team proposed a new concept of electrostatic precipitators: on-demand antiviral/antibacterial electrostatic precipitators (ESPs) with electrothermal-based antimicrobial surfaces. We applied electrothermal-based antimicrobial surfaces to ESPs and demonstrated that the efficacy of proposed method in terms of collection and inactivation of airborne pathogen. The electrothermal carbon sucface could effectively collect the bioaerosols as collection plates of ESPs and inactivate the collected microorganisms by joule-heating effect. <p>
+
+**Related papers** <p>
+- Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, *Toxics.*
+- Park, D. H. et al., (2024) Evaluation of Antiviral Electrostatic Precipitator with Commercially Antiviral Films Coated on Collection Plates Against Aerosolized Viruses, *IEEE Transactions on Industry Applications.* 
+- Heo, K. J. et al., (2023). The electro-thermal antimicrobial carbon surface, *IEEE Transactions on Industry Applications.* <p>
+
+
+**Related projects**<p>
+-	Development of anti-microbial/-virus HVAC module to prevent disease transmission (2021-2023)
