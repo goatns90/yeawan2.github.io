@@ -20,7 +20,7 @@ interests:
   - Aerosol control
   - Airborne pathogen inactivation
   - Rapid diagnostics
-  - Electrostatic discharge
+  - Electrohydrodynamics
   - Fluid mechanics
 
 # Education to show in About widget
@@ -63,6 +63,14 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a researcher in Department of urban environment research at the Korea Institute of Machinery and Materials (KIMM), a journey I embarked on in 2019.12. Before I join KIMM, I received a M.S. degree in Mechanical Engineering from Korea Institute of Machinery and Materials [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
+I am currently a researcher in department of urban environment research at the Korea Institute of Machinery and Materials (KIMM), a journey I embarked on in 2019.12. Before I join KIMM, I received a M.S. degree in Mechanical Engineering from Korea Institute of Machinery and Materials [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
 
-My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I develop air pollution control devices including **electrostatic precipitators** and **scrubbers** for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am developing **real-time aerosol mass balance**, and air purifying **ionic fan**.
+My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I developed **air pollution control devices** including *electrostatic precipitators* and *scrubbers* for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am developing **real-time aerosol mass balance**, and air purifying **ionic fan**. <p>
+
+**Technical skills**
+- **MATLAB and PYTHON** for programming and image analysis
+- High speed imaging 
+- **CATIA** for 3D CAD and **KEYSHOT** for rendering
+- **ANSYS FLUENT** and **COMSOL MULTIPHYSICS** for CFD
+- Various aerosol measurement devices **APS, SMPS, OPC, ELPI, etc.** 
+- Gas analyzers by means of **FT-IR (MIDAC)** and **elecrochemical cells (MRU)**

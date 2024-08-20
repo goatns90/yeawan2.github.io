@@ -1,6 +1,6 @@
 ---
 title: Airborne pathogen inactivation
-summary: In response to COVD-10 pandemic, I am taking action to address the urgent challenge of pathogen spread developing air purification technologies for collecting and disinfecting airborne pathogens (bioaerosols) in indoor air
+summary: In response to COVID-19 pandemic, I am taking action to address the urgent challenge of pathogen spread developing air purification technologies for collecting and disinfecting airborne pathogens (bioaerosols) in indoor air
 date: '2024-08-17T00:00:00Z'
 
 
