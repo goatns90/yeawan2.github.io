@@ -12,16 +12,16 @@ organizations:
   - name: Researcher
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on developing practical solutions for sampling, removing, and sensing airborne pollutants.
+bio: My research has focused on developing practical solutions to mitigate airborne pollutants including VOCs, SOx, NOx, and particulate matter. Recently I am extending my research area for sustainable development.
 
 
 # Interests to show in About widget
 interests:
-  - Aerosol control
-  - Airborne pathogen inactivation
-  - Rapid diagnostics
-  - Electrohydrodynamics
-  - Fluid mechanics
+  - Particle dynamics
+  - Pathogen inactivation & diagnostics
+  - Bioinspired design
+  - Micro/Nano fabrication
+  - Electro-magneto-hydrodynamics
 
 # Education to show in About widget
 education:
