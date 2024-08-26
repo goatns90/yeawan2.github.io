@@ -96,7 +96,7 @@ sections:
         5.	Lee, Y., Kim, Y.-S., Lee, H., Han, B., Kim, Y.-J., Kim, H.-J., The daily distribution of PM2.5 in Subway station and Reduction, The 3rd Asian Conference on Railway Engineering and Transportation, Jeju (South Korea), 2021
         6.	Lee, Y., An, S.-H., Yu, C. R., Kim, Y.-S., Han, B., Kim, Y.-J., Kim, H.-J., Gas absorption and particle removal performance of wet parallel-membrane array system, 2021 IEEE Industry Applications Society Annual Meeting, Vancouver, British Columbia (Canada), 2021
         7.	Lee, Y., Kim, Y.-S., Lee, H., An, S.-H., Han, B., Kim, Y.-J., Kim, H.-J., Retrofit of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, 2022 Joint Conference on Electrostatics, Charlotte, North Carolina (USA), 2022
-        8.	Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2019
+        8.	Lee, Y., Park, D. H., Lee, G., Park, I., Kim, J.-T., Hong, K.-J., Han, B., Kim, S.-B., *Ionic wind induced fine particle removing propeller, 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington D.C. (USA), 2023
 
 
         **Patents** <p>

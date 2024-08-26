@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of fluids 
+title: Fluid propulsion and interaction
 summary: Behind practical applicaitons, I am delving into understanding fluid mechanics, interfacial dynamics, aerodynamics, electrohydrodynamics, and particle dynamics. 
 date: '2024-04-20T00:00:00Z'
 
