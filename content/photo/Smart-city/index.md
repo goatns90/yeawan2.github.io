@@ -1,5 +1,5 @@
 ---
-title: Member of Smart City Association
+title: Member of Smart City Committee
 summary: 2022/01/31 ~ 2024/01/30
 date: '2022-01-31T00:00:00Z'
 
@@ -23,5 +23,5 @@ url_video: ''
 # slides: example
 ---
 
-Member of Smart City Association
+Member of Smart City Committee
 2022/01/31 ~ 2024/01/30

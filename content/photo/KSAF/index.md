@@ -1,7 +1,7 @@
 ---
-title: Best Paper Award (Korean Society for Indoor Environment 2024)
-summary: Yeawan Lee et al.
-date: '2024-09-26T00:00:00Z'
+title: National Science and Engineering Undergraduate Scholarship
+summary: National scholarship by Korean Government
+date: '2016-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -23,5 +23,5 @@ url_video: ''
 # slides: example
 ---
 
-Yeawan Lee et al.
-2024/09/26
+Full funding undergraduate scholarship for 4 semesters
+

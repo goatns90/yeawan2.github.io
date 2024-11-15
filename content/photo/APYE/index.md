@@ -1,7 +1,7 @@
 ---
-title: Best Paper Award (Korean Society for Indoor Environment 2024)
-summary: Yeawan Lee et al.
-date: '2024-09-26T00:00:00Z'
+title: APYE (Asia Pacific Youth Exchange) Thailand 
+summary: 2018 Jan.
+date: '2018-01-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -23,5 +23,5 @@ url_video: ''
 # slides: example
 ---
 
-Yeawan Lee et al.
-2024/09/26
+Youth exchange program organized by UNDP (United Nations Development Programme)
+2018/01/14 - 2018/01/26

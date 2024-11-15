@@ -1,7 +1,7 @@
 ---
-title: Best Paper Award (Korean Society for Indoor Environment 2024)
+title: Best Paper Award (Korean Society of Visualization 2019)
 summary: Yeawan Lee et al.
-date: '2024-09-26T00:00:00Z'
+date: '2019-06-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -24,4 +24,4 @@ url_video: ''
 ---
 
 Yeawan Lee et al.
-2024/09/26
+2022/06/30
