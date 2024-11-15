@@ -140,14 +140,12 @@ sections:
     id: gallery
     content:
       title: Gallery
-      subtitle: ''
       filters:
         folders:
-          - Yeawan
+          - photo
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
        view: 2
       # For Showcase view, flip alternate rows? #
-      flip_alt_rows: false  
 ---
