@@ -136,14 +136,18 @@ sections:
         - 2022	Outstanding paper award, 2022 Annual Conference of Korean Society for Atmospheric Environment
       # `content` 폴더 안의 `awards.md` 파일 내용을 여기에 직접 삽입합니다.
 
-  - block: markdown
+  - block: collection
     id: gallery
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      filters:
+        folders:
+          - Yeawan
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
     design:
-      columns: '1'
-  
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+       view: 2
+      # For Showcase view, flip alternate rows? #
+      flip_alt_rows: false  
 ---
