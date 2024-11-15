@@ -1,7 +1,7 @@
 ---
-title: Photograph of Ti packaged neurostimulator
-summary: Electroporation for the treatment of overactive bladder by tibial nerve stimulation.
-date: '2024-07-21T00:00:00Z'
+title: Best Paper Award (Korean Society for Indoor Environment 2020)
+summary: Yeawan Lee et al.
+date: '2020-11-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -23,4 +23,5 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptated later.
+Yeawan Lee et al.
+2020/11/26

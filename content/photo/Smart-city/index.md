@@ -1,7 +1,7 @@
 ---
-title: Photograph of Ti packaged neurostimulator
-summary: Electroporation for the treatment of overactive bladder by tibial nerve stimulation.
-date: '2024-07-21T00:00:00Z'
+title: Member of Smart City Association
+summary: 2022/01/31 ~ 2024/01/30
+date: '2022-01-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -23,4 +23,5 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptated later.
+Member of Smart City Association
+2022/01/31 ~ 2024/01/30

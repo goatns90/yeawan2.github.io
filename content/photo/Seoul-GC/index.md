@@ -1,7 +1,7 @@
 ---
-title: Photograph of Ti packaged neurostimulator
-summary: Electroporation for the treatment of overactive bladder by tibial nerve stimulation.
-date: '2024-07-21T00:00:00Z'
+title: Best Paper Award in Academic Section (2021 Seoul Glolbal Challenge-1st prize)
+summary: Yeawan Lee et al.
+date: '2021-12-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -23,4 +23,4 @@ url_video: ''
 # slides: example
 ---
 
-Will be uptated later.
+International competition for innovative technologies and ideas for improving subway air quality. I recieved 1st prize (best paper award) in academic section with a research paper titled 'Analysis of the Correlation between the Concentration of PM2.5 in the Outside Atmosphere and the Concentration of PM2.5 in the Subway Station'
