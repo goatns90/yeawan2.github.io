@@ -13,7 +13,7 @@ organizations:
   - year: 2019.12. - 2025.08.
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research has focused on developing practical solutions to mitigate airborne pollutants including VOCs, SOx, NOx, and particulate matter. Recently I am extending my research area for sustainable development.
+bio: I started new journey for Ph.D. to investigate high thermal conductivity materials for thermal management. My research has focused on developing practical solutions to mitigate airborne pollutants including VOCs, SOx, NOx, and particulate matter. I am extending my research area for sustainable development and pushing boundaries to advance science. 
 
 # Interests to show in About widget
 interests:
@@ -66,7 +66,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a PhD student in Prof. Yongjie Hu's group of University of California Los Angeles (UCLA), a journey I embarked in 2025.09. Before I started ths PhD course, I was employed in department of urban environment research at the Korea Institute of Machinery and Materials (KIMM). I received a M.S. degree in Mechanical Engineering from KAIST [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
+I am currently a PhD student in Prof. Yongjie Hu's group of University of California Los Angeles (UCLA), a journey I embarked in 2025.09. Before I started the PhD course, I was employed in department of urban environment research at the Korea Institute of Machinery and Materials (KIMM). I received a M.S. degree in Mechanical Engineering from KAIST [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
 
 My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I developed **air pollution control devices** including *electrostatic precipitators* and *scrubbers* for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am investigating **high thermal conductivity semiconductors**. <p>
 
