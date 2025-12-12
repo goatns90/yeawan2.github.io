@@ -9,29 +9,32 @@ superuser: true
 organizations:
   - name: Korea Institute of Machinery and Materials (KIMM)
     url: https://www.kimm.re.kr/eng/sub020105
-  - name: Researcher
+  - title: Researcher
+  - year: 2019.12. - 2025.08.
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research has focused on developing practical solutions to mitigate airborne pollutants including VOCs, SOx, NOx, and particulate matter. Recently I am extending my research area for sustainable development.
 
-
 # Interests to show in About widget
 interests:
+  - High thermal conductivity materials
   - Particle dynamics
   - Pathogen inactivation & diagnostics
-  - Bioinspired design
   - Micro/Nano fabrication
-  - Electro-magneto-hydrodynamics
+  - Electro-hydrodynamics
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Mechanical Engineering
+      institution: University of California Los Angeles (UCLA)
+      year: 2025.09. - present
     - course: M.S. in Mechanical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 2020.02
+      year: 2018.02 - 2020.02
     - course: B.S. in Mechanical Engineering
       institution: Hanyang University
-      year: 2018.02
+      year: 2014.02 - 2018.02
     
 
 # Social/Academic Networking
@@ -42,7 +45,7 @@ social:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lyw90@kimm.re.kr'
+  link: 'mailto:lyw90@ucla.edu'
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -50,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=3pAeZpEAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/yeawan-lee-41a1162a4/?originalSubdomain=en
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-0056-4474
@@ -63,14 +66,14 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a researcher in department of urban environment research at the Korea Institute of Machinery and Materials (KIMM), a journey I embarked in 2019.12. Before I join KIMM, I received a M.S. degree in Mechanical Engineering from Korea Institute of Machinery and Materials [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
+I am currently a PhD student in Prof. Yongjie Hu's group of University of California Los Angeles (UCLA), a journey I embarked in 2025.09. Before I started ths PhD course, I was employed in department of urban environment research at the Korea Institute of Machinery and Materials (KIMM). I received a M.S. degree in Mechanical Engineering from KAIST [(advisor: Prof. Hyoungsoo Kim)](https://hyoungsookimm.wixsite.com/filkaist).
 
-My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I developed **air pollution control devices** including *electrostatic precipitators* and *scrubbers* for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am developing **real-time aerosol mass balance**, and air purifying **ionic fan**. <p>
+My primary interest lies in developing practical solutions for sampling, removing, and sensing airborne pollutants. I developed **air pollution control devices** including *electrostatic precipitators* and *scrubbers* for semiconductor industries, power plants, and buildings. During COVID-19 pandemic, I developed antimicrobial electrostatic precipitator for airborne pathogen disinfection. Currently, I am investigating **high thermal conductivity semiconductors**. <p>
 
 **Technical skills**
+- Material synthesis and analysis including Raman, SEM, XRD, etc.
 - **MATLAB and PYTHON** for programming and image analysis
-- High speed imaging 
+- Flow visualtization
 - **CATIA** for 3D CAD and **KEYSHOT** for rendering
 - **ANSYS FLUENT** and **COMSOL MULTIPHYSICS** for CFD
 - Various aerosol measurement devices **APS, SMPS, OPC, ELPI, etc.** 
-- Gas analyzers by means of **FT-IR (MIDAC)** and **elecrochemical cells (MRU)**
