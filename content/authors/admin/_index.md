@@ -7,10 +7,10 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea Institute of Machinery and Materials (KIMM)
-    url: https://www.kimm.re.kr/eng/sub020105
-  - title: Researcher
-  - year: 2019.12. - 2025.08.
+  - name: University of California Los Angeles (UCLA)
+    url: http://www.hu.seas.ucla.edu/
+  - title: Ph.D. student
+  - year: 2025.09. - present
 
 # Short bio (displayed in user profile at end of posts)
 bio: I started new journey for Ph.D. to investigate high thermal conductivity materials for thermal management. My research has focused on developing practical solutions to mitigate airborne pollutants including VOCs, SOx, NOx, and particulate matter. I am extending my research area for sustainable development and pushing boundaries to advance science. 
