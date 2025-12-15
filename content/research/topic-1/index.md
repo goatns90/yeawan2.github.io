@@ -34,7 +34,7 @@ In a wet scrubber, the polluted gas stream is brought into contact with the scru
 **Related papers** <p>
 - **Lee, Y.** et al., (2022). Minimizing the consumption of reducing agents for NOx removal in a wet scrubber without H2S formation, *Separation and Purification Technology.*<p>
 - Lee, G. et al., (2024). Lab-and pilot-scale wet scrubber study on the redox-mediated simultaneous removal of NOx and SO2 using a CaCO3-based slurry with KI as a redox catalyst, *Chemosphere.*
-
+- Lee, G. et al., (2025). Application of parallel-type hydrophilic rayon sheet on non-packing scrubber and electrostatic precipitator for gaseous pollutant and particulate removal, *Separation and Purification Technology.*
 **Related projects**<p>
 - Development of ultra-clean machinery technologies of future power generation systems against PM2.5 fine particles and greenhouse gases (2018-2023)
 

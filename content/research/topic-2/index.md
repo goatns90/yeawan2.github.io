@@ -44,6 +44,7 @@ ESPs can effectively remove PM2.5 with a low pressure drop, resulting in an ener
 - **Lee, Y.** et al., (2022). Minimizing the Size and Ozone Emission of Electrostatic Precipitators Using Dielectric and Rolled Carbon Film Coatings, *IEEE Transactions on Industry Applications.*  
 - Kim, Y. S.#, **Lee, Y.#** et al., (2022). Improvement of an In-Duct Two-Stage Electrostatic Precipitator via Diffusion Charging, *Toxics.*
 - **Lee, Y.** et al., (2024) Retrofitting of an Air Handling Unit by a Two-Stage Electrostatic Precipitator, *IEEE Transactions on Industry Applications.*
+- **Lee, Y.** et al., (2025). Development of an Electrostatic Precipitator With a Novel Dry‐Cleaning Apparatus for Building Ventilation Systems, *Indoor Air.*
 - Lee, H. et al., (2022). Development of Electrostatic-Precipitator-Type Air Conditioner for Reduction of Fine Particulate Matter in Subway, *IEEE Transactions on Industry Applications.*
 - Park, D. H. et al., (2022). Development of On-Demand Antiviral Electrostatic Precipitators with Electrothermal-Based Antiviral Surfaces against Airborne Virus Particles, *Toxics.*
 - Park, D. H. et al., (2023). A Study on the Particle Removal Efficiency and Durability according to the Material of the Ionizer of the Fiber Brush Type Electric Precipitator, *IEEE Transactions on Industry Applications.*<p>
